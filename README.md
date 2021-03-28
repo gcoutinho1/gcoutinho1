@@ -3,6 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://https://twitter.com/gcoutinho1/)](https://twitter.com/gcoutinho1/)
 <!--
 **gcoutinho1/gcoutinho1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ (https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=FFA500)
 
 Here are some ideas to get you started:
 
@@ -29,7 +30,6 @@ Eu crio novos repositórios para armazenar alguns projetos pessoais, mas a maior
 ![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=Flutter&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=FFA500)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=FFA500)
 ![](https://img.shields.io/badge/Firebase-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=FFA500)
 
