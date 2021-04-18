@@ -25,7 +25,7 @@ Atualmente estou focado em desenvolvimento mobile e melhorando minhas habilidade
 
 ### Conteúdo dos meus repositórios
 
-Eu crio novos repositórios para armazenar alguns projetos pessoais, mas a maioria são *experimentais* ou amostras do que estou estudando.
+Eu crio novos repositórios para armazenar alguns projetos pessoais, mas a maioria são amostras do que estou estudando.
 
 ---
 
