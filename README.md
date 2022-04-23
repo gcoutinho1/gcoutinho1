@@ -2,6 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermecoutinho1/)](https://www.linkedin.com/in/guilhermecoutinho1/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://https://twitter.com/gcoutinho1/)](https://twitter.com/gcoutinho1/)
 <!--
+ hide=html,C,CMake,Objective-C,c%2B%2B
  (https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=FFA500)
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/gcoutinho1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gcoutinho1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=FFA500&icon_color=ffffff&bg_color=1d1f21&hide=contribs,issues,prs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gcoutinho1&show_icons=true&line_height=27&count_private=true&include_all_commits&title_color=ffffff&text_color=FFA500&icon_color=ffffff&bg_color=1d1f21&hide=contribs,issues,prs"/>
 </a>
 
 ### Sobre mim
@@ -37,4 +38,4 @@ Eu crio novos repositórios para armazenar alguns projetos pessoais, mas a maior
 ![](https://img.shields.io/badge/Database-SQLite-informational?style=plastic&logo=SQLite&logoColor=white&color=FFA500)  
 ![](https://img.shields.io/badge/Firebase-Firebase-informational?plastic=flat&logo=Firebase&logoColor=white&color=FFA500)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcoutinho1&layout=compact&title_color=ffffff&bg_color=1d1f21&text_color=ffffff&hide=Objective-C)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcoutinho1&layout=compact&title_color=ffffff&bg_color=1d1f21&text_color=ffffff&langs_count=10)](https://github.com/gcoutinho1/github-readme-stats)
