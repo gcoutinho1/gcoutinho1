@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/gcoutinho1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gcoutinho1&show_icons=true&line_height=27&count_private=true&include_all_commits&title_color=ffffff&text_color=FFA500&icon_color=ffffff&bg_color=1d1f21&hide=contribs,issues,prs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gcoutinho1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=FFA500&icon_color=ffffff&bg_color=1d1f21&hide=contribs,issues,prs"/>
 </a>
 
 ### Sobre mim
@@ -32,10 +32,10 @@ Eu crio novos repositórios para armazenar alguns projetos pessoais, mas a maior
 
 ### Tecnologias e ferramentas
 
-![](https://img.shields.io/badge/Framework-Flutter-informational?style=plastic&logo=Flutter&logoColor=white&color=FFA500)  
-![](https://img.shields.io/badge/Code-Dart-informational?style=plastic&logo=dart&logoColor=white&color=FFA500)  
-![](https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=java&logoColor=white&color=FFA500)  
-![](https://img.shields.io/badge/Database-SQLite-informational?style=plastic&logo=SQLite&logoColor=white&color=FFA500)  
-![](https://img.shields.io/badge/Firebase-Firebase-informational?plastic=flat&logo=Firebase&logoColor=white&color=FFA500)  
+![](https://img.shields.io/badge/Framework-Flutter-informational?style=plastic&logo=Flutter&logoColor=0095e6&color=FFA500)  
+![](https://img.shields.io/badge/Code-Dart-informational?style=plastic&logo=Dart&logoColor=0095e6&color=FFA500)  
+![](https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=java&logoColor=red&color=FFA500)  
+![](https://img.shields.io/badge/Database-SQLite-informational?style=plastic&logo=SQLITE&logoColor=white&color=FFA500)  
+![](https://img.shields.io/badge/BackEnd-Firebase-informational?plastic=flat&logo=Firebase&color=FFA500)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcoutinho1&layout=compact&title_color=ffffff&bg_color=1d1f21&text_color=ffffff&langs_count=10)](https://github.com/gcoutinho1/github-readme-stats)
