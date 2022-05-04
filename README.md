@@ -38,4 +38,5 @@ Eu crio novos repositórios para armazenar alguns projetos pessoais, mas a maior
 ![](https://img.shields.io/badge/Database-SQLite-informational?style=plastic&logo=SQLITE&logoColor=white&color=FFA500)  
 ![](https://img.shields.io/badge/BackEnd-Firebase-informational?plastic=flat&logo=Firebase&color=FFA500)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcoutinho1&layout=compact&title_color=ffffff&bg_color=1d1f21&text_color=ffffff&langs_count=10)](https://github.com/gcoutinho1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcoutinho1&layout=compact&title_color=ffffff&bg_color=1d1f21&text_color=ffffff&langs_count=10&hide=html,C,CMake,Objective-C)](https://github.com/gcoutinho1/github-readme-stats)  
+![Profile Views](https://komarev.com/ghpvc/?username=gcoutinho1&style=plastic&color=FFA500&label=Views)
