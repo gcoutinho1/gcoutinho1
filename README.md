@@ -1,36 +1,17 @@
-## Guilherme Coutinho ✅
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermecoutinho1/)](https://www.linkedin.com/in/guilhermecoutinho1/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://https://twitter.com/gcoutinho1/)](https://twitter.com/gcoutinho1/)
-<!--
- hide=html,C,CMake,Objective-C,c%2B%2B
- (https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=FFA500)
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Guilherme Coutinho ✌
+
 <a href="https://github.com/gcoutinho1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gcoutinho1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=FFA500&icon_color=ffffff&bg_color=1d1f21&hide=contribs,issues,prs"/>
 </a>
 
-### Sobre mim
+### About me
 
-Atualmente estou focado em desenvolvimento mobile e melhorando minhas habilidades de desenvolvimento utilizando **Flutter**.
-
----
-
-### Conteúdo dos meus repositórios
-
-Eu crio novos repositórios para armazenar alguns projetos pessoais, mas a maioria é amostra do que estou estudando.
+Hello, I'm Guilherme Coutinho.  
+Currently focused on mobile development and improving my development skills using **Dart** and **Flutter.**
 
 ---
 
-### Tecnologias e ferramentas
+### Stack
 
 ![](https://img.shields.io/badge/Framework-Flutter-informational?style=plastic&logo=Flutter&logoColor=0095e6&color=FFA500)  
 ![](https://img.shields.io/badge/Code-Dart-informational?style=plastic&logo=Dart&logoColor=0095e6&color=FFA500)  
@@ -40,3 +21,7 @@ Eu crio novos repositórios para armazenar alguns projetos pessoais, mas a maior
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcoutinho1&layout=compact&title_color=ffffff&bg_color=1d1f21&text_color=ffffff&langs_count=10&hide=html,C,CMake,Objective-C)](https://github.com/gcoutinho1/github-readme-stats)  
 ![Profile Views](https://komarev.com/ghpvc/?username=gcoutinho1&style=plastic&color=FFA500&label=Views)
+
+### Feel free to contact me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermecoutinho1/)](https://www.linkedin.com/in/guilhermecoutinho1/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://https://twitter.com/gcoutinho1/)](https://twitter.com/gcoutinho1/)
