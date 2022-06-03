@@ -6,8 +6,9 @@
 
 ### About me
 
-Hello, I'm Guilherme Coutinho.  
-Currently focused on mobile development and improving my development skills using **Dart** and **Flutter**.
+Hi, I'm Guilherme Coutinho.  
+I have a degree in systems analysis and development from UNIFRAN and since 2019 I have been passionate about apps that transform and improve people's lives.  
+I'm currently focused on mobile development and improving my development skills using **Dart** and **Flutter**.  
 
 ---
 
@@ -17,7 +18,7 @@ Currently focused on mobile development and improving my development skills usin
 ![](https://img.shields.io/badge/BackEnd-Firebase-informational?plastic=flat&logo=Firebase&color=FFA500)  
 ![](https://img.shields.io/badge/Database-SQLite-informational?style=plastic=flat&logo=SQLITE&logoColor=white&color=FFA500)  
 ![](https://img.shields.io/badge/Code-Dart-informational?style=plastic=flat&logo=Dart&logoColor=0095e6&color=FFA500)  
-![](https://img.shields.io/badge/Code-Java-informational?style=plastic=flat&logo=java&logoColor=red&color=FFA500)  
+![](https://img.shields.io/badge/Code-Java-informational?style=plastic=flat&logo=android&logoColor=green&color=FFA500)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcoutinho1&layout=compact&title_color=ffffff&bg_color=1d1f21&text_color=ffffff&langs_count=10&hide=html,C,CMake,Objective-C)](https://github.com/gcoutinho1/github-readme-stats)  
 ![Profile Views](https://komarev.com/ghpvc/?username=gcoutinho1&style=plastic&color=FFA500&label=Views)
