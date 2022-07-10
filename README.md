@@ -6,10 +6,10 @@
 
 ### About me
 
-Hi, I'm Guilherme Coutinho.  
-I have a degree in systems analysis and development from Unifran.  
-Since 2019 I'm passionate about apps that transform and improve people's lives.  
-I'm currently focused on mobile development and improving my development skills using **Dart** and **Flutter**.  
+- Hi, I'm Guilherme Coutinho.  
+- I have a degree in systems analysis and development from Unifran.  
+- Since 2019 I'm passionate about apps that transform and improve people's lives.  
+- I'm currently focused on mobile development and improving my development skills using **Dart** and **Flutter**.  
 
 ---
 
