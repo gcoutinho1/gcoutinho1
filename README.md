@@ -29,7 +29,7 @@
 ### Feel free to contact me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermecoutinho1/)](https://www.linkedin.com/in/guilhermecoutinho1/) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=square&logo=Twitter&logoColor=white&link=https://https://twitter.com/gcoutinho1/)](https://twitter.com/gcoutinho1/) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=square&logo=discord&logoColor=white&link=https://discordapp.com/users/gcoutinho#0405)](https://discordapp.com/users/gcoutinho#0405) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=square&logo=discord&logoColor=white&link=https://discordapp.com/users/217152669591011330)](https://discordapp.com/users/217152669591011330) 
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=square&logo=steam&logoColor=white&link=https://steamcommunity.com/id/guilhermel337/)](https://steamcommunity.com/id/guilhermel337/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=square&logo=gmail&logoColor=white&link=mailto:gcoutinho.dev@gmail.com)](mailto:gcoutinho.dev@gmail.com) 
 
