@@ -1,9 +1,12 @@
 <!-- <p align="center">
 <img height="250em" img src="https://user-images.githubusercontent.com/42876350/203445828-fb0f1da0-9fea-45b5-8743-d22da9c0129c.png">
 </p> -->
+<!-- swap image based on theme
+#gh-light-mode-only
+#gh-dark-mode-only -->
 ### About me
 
-<img align="right" src="https://user-images.githubusercontent.com/42876350/203586256-1187ca22-45df-4578-944a-a806ec44a0e3.png#gh-dark-mode-only"><img align="right" height="200" src="https://user-images.githubusercontent.com/42876350/203594638-f7a90889-9b14-4fc5-8bd0-3728b5a59b51.png#gh-light-mode-only">Hi, I'm Guilherme Coutinho.  
+<img align="right" src="https://user-images.githubusercontent.com/42876350/203586256-1187ca22-45df-4578-944a-a806ec44a0e3.png"><img align="right" height="200" src="https://user-images.githubusercontent.com/42876350/203594638-f7a90889-9b14-4fc5-8bd0-3728b5a59b51.png">Hi, I'm Guilherme Coutinho.  
 I have a degree in systems analysis and development from Unifran.  
 Since 2019 I'm passionate about apps that transform and improve people's lives.  
 I'm currently focused on mobile development and improving my development skills using **Dart** and **Flutter**.  
