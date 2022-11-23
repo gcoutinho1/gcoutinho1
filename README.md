@@ -3,7 +3,7 @@
 </p> -->
 ### About me
 
-<img align="right" height="183em" src="https://user-images.githubusercontent.com/42876350/203586256-1187ca22-45df-4578-944a-a806ec44a0e3.png#gh-dark-mode-only"><img align="right" height="200" src="https://user-images.githubusercontent.com/42876350/203594638-f7a90889-9b14-4fc5-8bd0-3728b5a59b51.png#gh-light-mode-only">Hi, I'm Guilherme Coutinho.  
+<img align="right" height="170" src="https://user-images.githubusercontent.com/42876350/203586256-1187ca22-45df-4578-944a-a806ec44a0e3.png#gh-dark-mode-only"><img align="right" height="200" src="https://user-images.githubusercontent.com/42876350/203594638-f7a90889-9b14-4fc5-8bd0-3728b5a59b51.png#gh-light-mode-only">Hi, I'm Guilherme Coutinho.  
 I have a degree in systems analysis and development from Unifran.  
 Since 2019 I'm passionate about apps that transform and improve people's lives.  
 I'm currently focused on mobile development and improving my development skills using **Dart** and **Flutter**.  
@@ -19,8 +19,8 @@ I'm currently focused on mobile development and improving my development skills 
 ![](https://img.shields.io/badge/Code-Java-informational?style=plastic=flat&logo=android&logoColor=green&color=BCF314)
 
 <a href="https://github.com/gcoutinho1">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gcoutinho1&show_icons=true&line_height=27&count_private=true&hide=contribs&title_color=BCF314&text_color=BCF314&ring_color=c91246&icon_color=c91246&bg_color=00000000&theme=transparent&hide_border=false"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcoutinho1&layout=compact&title_color=BCF314&bg_color=00000000&text_color=BCF314&langs_count=10&hide=html,C,CMake,Objective-C&theme=flag-india&hide_border=false"/>  
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gcoutinho1&show_icons=true&line_height=27&count_private=true&hide=contribs&title_color=BCF314&text_color=BCF314&ring_color=c91246&icon_color=c91246&bg_color=0D1117&hide_border=false"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcoutinho1&layout=compact&title_color=BCF314&bg_color=0D1117&text_color=BCF314&langs_count=10&hide=html,C,CMake,Objective-C&hide_border=false"/>  
 </a>
 <p align="left">
 <a href="https://github.com/gcoutinho1">
