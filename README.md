@@ -22,8 +22,8 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=plastic=flat&logo=android&logoColor=green&color=FFA500)
 
 <a href="https://github.com/gcoutinho1">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gcoutinho1&show_icons=true&line_height=27&count_private=true&hide=contribs&title_color=e3ab12&text_color=b8aeb1&icon_color=d62744&bg_color=00000000&theme=transparent#gh-dark-mode-only"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcoutinho1&layout=compact&title_color=e3ab12&bg_color=00000000&text_color=b8aeb1&langs_count=10&hide=html,C,CMake,Objective-C&theme=flag-india#gh-dark-mode-only"/>  
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gcoutinho1&show_icons=true&line_height=27&count_private=true&hide=contribs&title_color=e3ab12&text_color=ed8611&icon_color=d60d21&bg_color=00000000&theme=transparent&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcoutinho1&layout=compact&title_color=e3ab12&bg_color=00000000&text_color=ed8611&langs_count=10&hide=html,C,CMake,Objective-C&theme=flag-india&hide_border=true"/>  
 </a>
 <p align="left">
 <a href="https://github.com/gcoutinho1">
