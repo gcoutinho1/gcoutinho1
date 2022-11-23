@@ -6,7 +6,7 @@
 #gh-dark-mode-only -->
 ### About me
 
-<img align="right" src="https://user-images.githubusercontent.com/42876350/203586256-1187ca22-45df-4578-944a-a806ec44a0e3.png">Hi, I'm Guilherme Coutinho.  
+<img align="right" src="https://user-images.githubusercontent.com/42876350/203586256-1187ca22-45df-4578-944a-a806ec44a0e3.png#gh-dark-mode-only"><img align="right" src="https://user-images.githubusercontent.com/42876350/203624050-f5e8bb7f-2710-4c73-80c0-a0476450d971.png#gh-light-mode-only">Hi, I'm Guilherme Coutinho.  
 I have a degree in systems analysis and development from Unifran.  
 Since 2019 I'm passionate about apps that transform and improve people's lives.  
 I'm currently focused on mobile development and improving my development skills using **Dart** and **Flutter**.  
