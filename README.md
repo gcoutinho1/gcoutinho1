@@ -15,7 +15,7 @@ I'm currently focused on mobile development and improving my development skills 
 
 ### Languages and Tools
 
-<img align="right" height="185" src="https://user-images.githubusercontent.com/42876350/203594638-f7a90889-9b14-4fc5-8bd0-3728b5a59b51.png">  
+<img align="right" height="165" src="https://user-images.githubusercontent.com/42876350/203594638-f7a90889-9b14-4fc5-8bd0-3728b5a59b51.png">  
 
 ![](https://img.shields.io/badge/Framework-Flutter-informational?style=plastic=flat&logo=Flutter&logoColor=0095e6&color=BCF314)  
 ![](https://img.shields.io/badge/BackEnd-Firebase-informational?plastic=flat&logo=Firebase&color=BCF314)  
