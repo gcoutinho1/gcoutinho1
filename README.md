@@ -21,17 +21,19 @@ I'm currently focused on mobile development and improving my development skills 
 ![](https://img.shields.io/badge/BackEnd-Firebase-informational?plastic=flat&logo=Firebase&color=BCF314)  
 ![](https://img.shields.io/badge/Database-SQLite-informational?style=plastic=flat&logo=SQLITE&logoColor=white&color=BCF314)  
 ![](https://img.shields.io/badge/Code-Dart-informational?style=plastic=flat&logo=Dart&logoColor=0095e6&color=BCF314)  
-![](https://img.shields.io/badge/Code-Java-informational?style=plastic=flat&logo=android&logoColor=green&color=BCF314)
+![](https://img.shields.io/badge/Code-Java-informational?style=plastic=flat&logo=android&logoColor=green&color=BCF314) 
 
-<a href="https://github.com/gcoutinho1">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gcoutinho1&show_icons=true&line_height=27&count_private=true&hide=contribs&title_color=BCF314&text_color=BCF314&ring_color=c91246&icon_color=c91246&bg_color=0D1117&hide_border=false"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcoutinho1&layout=compact&title_color=BCF314&bg_color=0D1117&text_color=BCF314&langs_count=10&hide=html,C,CMake,Objective-C&hide_border=false"/>  
-</a>
-<p align="left">
+<!-- <a href="https://github.com/gcoutinho1">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gcoutinho1&show_icons=true&line_height=27&count_private=true&hide=contribs&title_color=BCF314&text_color=BCF314&ring_color=c91246&icon_color=c91246&bg_color=0D1117&hide_border=false"/> -->
+
+<!-- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcoutinho1&layout=compact&title_color=BCF314&bg_color=0D1117&text_color=BCF314&langs_count=10&hide=html,C,CMake,Objective-C&hide_border=false"/>  
+</a> -->
+
+<!-- <p align="left">
 <a href="https://github.com/gcoutinho1">
   <img height="13em" src="https://komarev.com/ghpvc/?username=gcoutinho1&style=plastic&color=BCF314&label=V"/>
 </a>
-</p>
+</p> -->
 
 ---
 
@@ -39,5 +41,9 @@ I'm currently focused on mobile development and improving my development skills 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermecoutinho1/)](https://www.linkedin.com/in/guilhermecoutinho1/) 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=square&logo=Twitter&logoColor=white&link=https://https://twitter.com/gcoutinho1/)](https://twitter.com/gcoutinho1/) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=square&logo=discord&logoColor=white&link=https://discordapp.com/users/217152669591011330)](https://discordapp.com/users/217152669591011330) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=square&logo=gmail&logoColor=white&link=mailto:gcoutinho.dev@gmail.com)](mailto:gcoutinho.dev@gmail.com) 
-<!-- [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=square&logo=steam&logoColor=white&link=https://steamcommunity.com/id/guilhermel337/)](https://steamcommunity.com/id/guilhermel337/) -->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=square&logo=gmail&logoColor=white&link=mailto:gcoutinho.dev@gmail.com)](mailto:gcoutinho.dev@gmail.com)
+<p align="right">
+<a href="https://github.com/gcoutinho1">
+  <img height="13em" src="https://komarev.com/ghpvc/?username=gcoutinho1&style=plastic&color=BCF314&label=V"/>
+</a>
+</p>
