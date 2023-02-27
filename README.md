@@ -9,8 +9,8 @@
 <img align="right" src="https://user-images.githubusercontent.com/42876350/203586256-1187ca22-45df-4578-944a-a806ec44a0e3.png#gh-dark-mode-only"><img align="right" src="https://user-images.githubusercontent.com/42876350/203624050-f5e8bb7f-2710-4c73-80c0-a0476450d971.png#gh-light-mode-only">
 - Hi, I'm Guilherme Coutinho.  
 - I have a degree in systems analysis and development from Unifran.  
-- Since 2019 I'm passionate about apps that transform and improve people's lives.  
-- I'm currently focused on mobile development and improving my development skills using **Dart** and **Flutter**.  
+- Since 2019 I've been passionate about apps that transform and improve people's lives.  
+- Currently, I'm focused on mobile development and improving my development skills using Dart and Flutter.  
 
 ---
 
@@ -39,7 +39,7 @@
 
 ---  
 
-### Feel free to contact me
+### Get in touch
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermecoutinho1/)](https://www.linkedin.com/in/guilhermecoutinho1/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=square&logo=Twitter&logoColor=white&link=https://https://twitter.com/gcoutinho1/)](https://twitter.com/gcoutinho1/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=square&logo=discord&logoColor=white&link=https://discordapp.com/users/217152669591011330)](https://discordapp.com/users/217152669591011330)
