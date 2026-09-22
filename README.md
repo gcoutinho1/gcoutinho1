@@ -25,17 +25,19 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=plastic=flat&logo=android&logoColor=green&color=BCF314)  
 
 ---
+<!-- Parou de funcionar em 2026 -->
 
-<p align="left">
+<!--  <p align="left">
 <a href="https://github.com/gcoutinho1">
   <!-- d card cont -->
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gcoutinho1&show_icons=true&line_height=27&count_private=true&hide=contribs&title_color=BCF314&text_color=BCF314&ring_color=c91246&icon_color=c91246&bg_color=0D1117&hide_border=false#gh-dark-mode-only">
+<!-- <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gcoutinho1&show_icons=true&line_height=27&count_private=true&hide=contribs&title_color=BCF314&text_color=BCF314&ring_color=c91246&icon_color=c91246&bg_color=0D1117&hide_border=false#gh-dark-mode-only">
   <!-- d card lang -->
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcoutinho1&layout=compact&title_color=BCF314&bg_color=0D1117&text_color=BCF314&langs_count=10&hide=html,C,CMake,Objective-C&hide_border=false#gh-dark-mode-only">
+<!-- <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcoutinho1&layout=compact&title_color=BCF314&bg_color=0D1117&text_color=BCF314&langs_count=10&hide=html,C,CMake,Objective-C&hide_border=false#gh-dark-mode-only">
 </a>
-</p>  
+</p>  -->
 
-<img height="15em" src="https://komarev.com/ghpvc/?username=gcoutinho1&style=plastic=flat&color=c91246&label=V" />  
+<!-- <img height="15em" src="https://komarev.com/ghpvc/?username=gcoutinho1&style=plastic=flat&color=green&label=V" /> -->
+<img height="15em" src="https://komarev.com/ghpvc/?username=gcoutinho1&style=plastic=flat&color=c91246&label=V" />
 
 ---  
 
