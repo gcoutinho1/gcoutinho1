@@ -56,11 +56,7 @@
 ![](https://img.shields.io/badge/ShotCut-BCF314?&logo=shortcut&logoColor=red)
 ![](https://img.shields.io/badge/Audio/Video_Edits-BCF314?&logo=socialblade&logoColor=black)  
 
-
-
-![](https://img.shields.io/badge/Stack_overflow-BCF314?&logo=stack-overflow&logoColor=black) <small>_i miss you_</small> ❤️
-
----
+![](https://img.shields.io/badge/Stack_overflow-BCF314?&logo=stack-overflow&logoColor=black) <small>_i miss you_</small> ❤️  
 <!-- Parou de funcionar em 2026 -->
 
 <!--  <p align="left">
@@ -73,15 +69,14 @@
 </p>  -->
 
 <!-- <img height="15em" src="https://komarev.com/ghpvc/?username=gcoutinho1&style=plastic=flat&color=green&label=V" /> -->
-<img height="15em" src="https://komarev.com/ghpvc/?username=gcoutinho1&style=plastic=flat&color=c91246&label=V" />
-
+<!-- <img height="15em" src="https://komarev.com/ghpvc/?username=gcoutinho1&style=plastic=flat&color=c91246&label=V" -->
 ---  
-
 ### Get in touch
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermecoutinho1/)](https://www.linkedin.com/in/guilhermecoutinho1/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=square&logo=Twitter&logoColor=white&link=https://https://twitter.com/gcoutinho1/)](https://twitter.com/gcoutinho1/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=square&logo=discord&logoColor=white&link=https://discordapp.com/users/217152669591011330)](https://discordapp.com/users/217152669591011330)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=square&logo=gmail&logoColor=white&link=mailto:gcoutinho.dev@gmail.com)](mailto:gcoutinho.dev@gmail.com)
+<img height="15em" src="https://komarev.com/ghpvc/?username=gcoutinho1&style=plastic=flat&color=c91246&label=V" />
 
 <!--<p align="left">
 <a href="https://github.com/gcoutinho1">
