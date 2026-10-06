@@ -41,6 +41,7 @@
 ![](https://img.shields.io/badge/MacOS-BCF314?&logo=macos&logoColor=black)  
 ![](https://img.shields.io/badge/Notion-BCF314?&logo=notion&logoColor=black)
 ![](https://img.shields.io/badge/Evernote-BCF314?&logo=evernote&logoColor=green)
+![](https://img.shields.io/badge/Obsidian-BCF314?&logo=obsidian&logoColor=8A2BE2)
 ![](https://img.shields.io/badge/Trello-BCF314?&logo=Trello&logoColor=blue)
 ![](https://img.shields.io/badge/Bitbucket-BCF314?logo=bitbucket&logoColor=blue)  
 ![](https://img.shields.io/badge/VSCode-BCF314?logo=counterstrike&logoColor=black)
@@ -56,7 +57,7 @@
 ![](https://img.shields.io/badge/ShotCut-BCF314?&logo=shortcut&logoColor=red)
 ![](https://img.shields.io/badge/Audio/Video_Edits-BCF314?&logo=socialblade&logoColor=black)  
 
-![](https://img.shields.io/badge/Stack_overflow-BCF314?&logo=stack-overflow&logoColor=black) <small>_i miss you_</small> ❤️  
+![](https://img.shields.io/badge/Stack_overflow-BCF314?&logo=stack-overflow&logoColor=black) <small>_i miss you_</small> ❤️🤡  
 <!-- Parou de funcionar em 2026 -->
 
 <!--  <p align="left">
